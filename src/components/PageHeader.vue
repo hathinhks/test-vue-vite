@@ -2,7 +2,7 @@
   <div class="flex items-center">
     <router-link to="/" class="flex items-center gap-2 text-[32px]">
       <img src="@/assets/vue.svg" />
-      Vue
+      Vue 2
     </router-link>
     <div class="flex-1 flex justify-center gap-12">
       <router-link to="/careers">Careers</router-link>
